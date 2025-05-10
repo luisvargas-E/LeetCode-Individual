@@ -1,0 +1,2 @@
+# LeetCode-Individual
+LeetCode Exercise
